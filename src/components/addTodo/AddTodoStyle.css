@@ -1,0 +1,76 @@
+.main-Add{
+    /* border: 1px solid red; */
+    width: 99.9%;
+    height: 650px;
+    background-image: linear-gradient(to top, #162f55, #005e89, #009097, #00bd79, #afe043);
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    
+}
+
+.main-mdl{
+    margin-top: 100px;
+    width: 30%;
+    height: auto;
+    background-color: white;
+    border-radius: 5px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+.main-mdl1{
+/* border: 1px solid red; */
+padding-left: 10px;
+}
+.inp-div{
+    /* border: 1px solid rgb(34, 32, 32); */
+    height: 60px;
+    width: 94%;
+    display: flex;
+    margin: 2%;
+}
+.inp-div1{
+    height: 30px;
+    width: 95%;
+    margin: 10px 5px 10px 0px;
+    /* border-radius: 1px; */
+}
+.inp-div2{
+    /* margin-left: 2%; */
+    margin: 10px 0px 10px 0px;
+    height: 36px;
+    width: 12%;
+    font-size: 30px;
+    padding-bottom: 3px;
+    color: white;
+    background-color: blueviolet;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    border-radius: 5px;
+}
+.pend-div{
+   /* border: 1px solid rgb(34, 32, 32); */
+   width: 94%;
+    margin: 10px 10px 10px 10px;
+   display: flex;
+   flex-direction: row;
+   justify-content: flex-start;
+   align-items: center;
+}
+.pend-div-txt{
+    /* padding-left: 10px; */
+    width: 82%;
+    /* padding-right: 20px; */
+    font-size: 16px;
+    /* border: 1px solid rgb(187, 74, 74); */
+}
+.pend-div-btn{
+    height: 30px;
+    width: auto;
+    color: white;
+    background-color: blueviolet;
+    border-radius: 5px;
+    border: 1px solid rgb(49, 197, 74);
+}
